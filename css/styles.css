@@ -30,7 +30,7 @@ body {
 
 ::-moz-selection {
  color: #fff;
- background: #A43E89;
+ background: #00577D;
 }
 p {
 	color: #3E3E3E;
@@ -191,7 +191,7 @@ a:hover {
 	border-radius: 0px;
 }
 .btn-primary {
-	background: #A43E89;
+	background:#00577D;
 }
 .form-control {
 	border-radius: 0px;
@@ -459,7 +459,7 @@ text-align: center;
 	font-weight: 200;
 }
 .page-section h2 {
-	color: #A43E89;
+	color: #07c0e0;
 }
 .page-section p {
 	font-size: 15px;
@@ -469,7 +469,7 @@ text-align: center;
 	background: #000;
 }
 .darkBg .fa {
-	color: #A43E89;
+	color: #00577D;
 }
 /*--- Banner ----*/
 .banner-container {
@@ -621,7 +621,7 @@ a.arrow-link:hover {
 	margin: 3px;
 	cursor: pointer;
 	box-shadow: 1px 1px 1px rgba(0,0,0,0.1) inset, 1px 1px 1px rgba(255,255,255,0.1);
-	border: 2px solid #A43E89;
+	border: 2px solid #00577D;
 }
 img, video, iframe, embed, object {
 	max-width: 100%;
